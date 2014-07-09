@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Menadi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Menu</string>
+    <string name="drawer_close"></string>
+    <string name="nome_giovanna">Johanna Fedorovsky</string>
+
+    <string-array name="menu_array">
+        <item>Informazioni</item>
+        <item>Mappa</item>
+        <item>Gli Eventi</item>
+        <item>I Relatori</item>
+        <item>Il Mio Calendario</item>
+        <item>Tweets</item>
+        <item>Avvisi</item>
+        <item>PROVA NOTIFICATION</item>
+    </string-array>
+
+    <string-array name="events_array">
+        <item>Talk1</item>
+        <item>Talk2</item>
+        <item>Talk3</item>
+        <item>Talk4</item>
+        <item>Talk5</item>
+        <item>Talk6</item>
+    </string-array>
+
+    <string-array name="rooms_array">
+        <item>Sala 1</item>
+        <item>Sala 2</item>
+        <item>Sala 3</item>
+        <item>Sala 4</item>
+        <item>Sala 5</item>
+        <item>Sala 6</item>
+    </string-array>
+
+    <string-array name="days_array">
+        <item>20140512</item>
+        <item>20140513</item>
+        <item>20140514</item>
+    </string-array>
+
+    <string-array name="maps_tabs">
+        <item>come arrivare</item>
+        <item>mappa del luogo</item>
+    </string-array>
+
+    <string-array name="details_titles_array">
+        <item>Informazioni</item>
+        <item>Email</item>
+        <item>Lista Eventi</item>
+        <item>Contatti</item>
+    </string-array>
+
+    <string name="place_name">Università di Manhattan</string>
+    <string name="btn_title">Relatori</string>
+
+</resources>
